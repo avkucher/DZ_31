@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+          <option value="E305" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="marshmallow_dataclass" />
+          <option value="marshmallow_dataclasses" />
+          <option value="typing.re" />
+          <option value="urllib.request.args" />
+          <option value="my_project_part_1.tech_support.views.ensure_ascii" />
+          <option value="my_project_part_1.tech_support.views.lesson27" />
+          <option value="my_project_part_1.tech_support.views.tests" />
+          <option value="ads.views.ensure_ascii" />
+          <option value="ads.views.AdDetailView" />
+          <option value="solution.my_project_part_1.discounts.urls.discounts" />
+          <option value="users.models.check_birth_date" />
+          <option value="users.models.check_email_domen" />
+          <option value="ads.views.CategoryCreatelView" />
+          <option value="django.http.request.GET" />
+          <option value="django.contrib.auth.models.CharField" />
+          <option value="ads.urls.location_router" />
+          <option value="ads.urls.CategoryViewSet" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
